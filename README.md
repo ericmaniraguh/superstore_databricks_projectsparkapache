@@ -113,6 +113,16 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
+Here is a shorter, clean version using **inline Markdown link formatting**:
+
+---
+
+### **Databricks Git Integration Link**
+
+[Click here to open Databricks with Git integration enabled](https://dbc-a3d6af82-c511.cloud.databricks.com/browse/folders/home?addGit=&o=4075981409173999&gitUrl=https%3A%2F%2Fgithub.com%2Fericmaniraguh%2Fsuperstore_databricks_projectsparkapache.git&gitProvider=gitHub)
+
+This link opens Databricks with Git integration enabled and allows contributors to clone the repository directly into their workspace.
+
 ---
 
 ## **License**
